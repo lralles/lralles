@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 ## About me
-- Software Engineer at Wellhub(formerly Gympass);
+- Software Engineer at Wellhub (formerly Gympass);
 - B. Sc. in Computer Engineering from UFRGS (Federal University of Rio Grande do Sul);
 - Building Go and Kafka based microservices to support tens of millions of user events.
 
